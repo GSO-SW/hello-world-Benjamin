@@ -10,6 +10,8 @@ namespace HelloWorldBenjamin
     {
         static void Main(string[] args)
         {
+            Console.Write("hELlO wOrLd");
+            Console.ReadLine();
         }
     }
 }
